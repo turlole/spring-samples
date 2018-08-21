@@ -1,1 +1,5 @@
 # Spring Configurations
+turlole:
+  sampleApplication:
+    name: 'FOONAME'
+    description: 'FOODESCRIPTION'
