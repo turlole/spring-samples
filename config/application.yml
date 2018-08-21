@@ -1,5 +1,5 @@
 # Spring Configurations
 turlole:
   sampleApplication:
-    name: 'FOOBARNAME'
-    description: 'FOOBARDESCRIPTION'
+    name: 'FOOFOONAME'
+    description: 'FOOFOODESCRIPTION'
